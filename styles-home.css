@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Cirrus-Cumulus;
+    src: url(fonts/CirrusCumulus.woff);
+}
+
+h1 {
+    font-family: Cirrus-Cumulus, Helvetica, "sans-serif";
+}
